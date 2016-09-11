@@ -1,0 +1,1 @@
+{"name": "Browser Menu", "children": [{"name": "File Menu (File)"},{"name": "Edit Menu (Edit)", "children": [{"name": "Cut text to clipboard (Cut)"},{"name": "Copy text to clipboard (Copy)"},{"name": "Paste text from clipboard (Paste)"}]},{"name": "View Menu (View)", "children": [{"name": "Magnify or shrink page (Zoom) {50%, 100%, 150%}"}]}]}

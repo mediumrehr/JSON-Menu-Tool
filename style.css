@@ -1,0 +1,61 @@
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+#wrapper {
+	min-height:100%;
+	position:relative;
+}
+
+#content {
+	padding:20px;
+	padding-bottom:20px;   /* Height of the footer element */
+	height:100%;
+}
+
+#msgArea {
+  font-family:"Arial", Helvetica, sans-serif;
+  font-size:14px;
+  color:red;
+}
+
+#codeText {
+	font-family:"Arial", Helvetica, sans-serif;
+  	font-size:14px;
+  	width:500px;
+  	height:100px;
+  	border:1px solid #ccc;
+  	overflow:auto;
+}
+
+#codeViewer {height:0;}
+
+#footer {
+   	width:100%;
+	position: fixed;
+	padding:5px 10px;
+	bottom:0;
+   	font-family:"Arial", Helvetica, sans-serif;
+   	font-size:14px;
+   	color:#aaa;
+   	background:#fff;
+}
+
+a.afooter {
+  text-decoration: none;
+  font-family:"Arial", Helvetica, sans-serif;
+  font-size:14px;
+  color:#aaa;
+}
+
+#result {
+  position:relative;
+  vertical-align: top;
+  display:inline-block;
+  width:200px;
+  padding: 5px 10px 15px 10px;
+  margin: 0px 5px 10px 0px;
+  background:#eee;
+}
